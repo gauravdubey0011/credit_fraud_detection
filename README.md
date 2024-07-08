@@ -1,4 +1,4 @@
-# credit_fraud_detection
+# credit_score_classification
 
-Credit card fraud detection using Machine Learning
+Credit score classification using Python
 Use Jupyter Notebook
